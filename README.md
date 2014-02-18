@@ -21,5 +21,6 @@ See more
 --------
 
 http://www.dukascopy.com/wiki/#JForex_SDK
+
 http://www.dukascopy.com/wiki/#Strategy_API
 
