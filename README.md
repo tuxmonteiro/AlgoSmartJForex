@@ -14,7 +14,7 @@ Using
 -----
 
     export DUKASCOPY_USER="Your login"
-    export DUKASCOPY_PASS="Tour password"
+    export DUKASCOPY_PASS="Your password"
     java -jar target/AlgoSmartJForex-1.0.jar
     
 See more
